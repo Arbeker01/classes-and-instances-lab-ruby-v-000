@@ -1,5 +1,7 @@
 
 # Classes And Instances Lab Ruby
+README.md
+Full Screen
 
 ## Objectives
 
